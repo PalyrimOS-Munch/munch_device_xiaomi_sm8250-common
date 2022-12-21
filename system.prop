@@ -43,6 +43,8 @@ persist.vendor.cne.feature=1
 
 # DPM
 persist.vendor.dpm.feature=11
+debug.hwui.use_hint_manager=true
+debug.hwui.target_cpu_time_percent=20
 
 # Fwk detect
 ro.vendor.qti.va_aosp.support=1
